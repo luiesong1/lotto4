@@ -1,0 +1,9 @@
+{
+  "name": "lotto4-dashboard",
+  "version": "1.0.0",
+  "description": "Simple dashboard without Node.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {}
+}
